@@ -31,6 +31,7 @@ assignees: ''
 - TypeScript version:
 - Operating System:
 - Npm/yarn/pnpm and version:
+- Node version:
 
 ## Additional Context
 <!--- Optional: Add any other context or information about the issue here -->
