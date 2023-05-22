@@ -12,7 +12,7 @@ To get started with contributing to Cakrawala - Client, follow these steps:
 
 ## UI Link
 
-To better understand the user interface of Cakrawala - Client, please refer to the following link: [example link]
+To better understand the user interface of Cakrawala - Client, please refer to the following link: [ui-link](https://www.figma.com/file/IuzRxcX9croEuoslWoL0Ec/cakrawala?type=design&t=Pz9GVEKfLa2Iz1uB-1)
 
 ## How to Contribute
 
@@ -21,11 +21,11 @@ To better understand the user interface of Cakrawala - Client, please refer to t
 If you encounter a bug while using Cakrawala - Client, or you have an idea for a feature enhancement, follow these steps:
 
 1. Check the [issue tracker](https://github.com/pancarona-dev/cakrawala-client/issues) to see if the bug or feature request has already been reported. If not, create a new issue to document the problem or feature request.
-2. Fork the repository and create a new branch based on the latest `develop` branch.
+2. Fork the repository and create a new branch based on the latest `development` branch.
 3. Implement the necessary changes in your branch.
 4. Write unit tests to ensure the code works as expected.
 5. Commit your changes and push them to your forked repository.
-6. Create a pull request (PR) from your branch to the `develop` branch of the main repository.
+6. Create a pull request (PR) from your branch to the `development` branch of the main repository.
 7. Provide a detailed description of the changes you made in the PR and reference the related issue.
 
 ### Code Review Process
