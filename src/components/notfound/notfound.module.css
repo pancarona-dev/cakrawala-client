@@ -1,0 +1,46 @@
+.notfoundimg {
+  width: 20%;
+}
+
+.notfoundwrapper {
+  flex-direction: column;
+  justify-content: center;
+  margin-left: 3rem;
+  margin-right: 3rem;
+  align-items: center;
+  display: flex;
+  align-content: center;
+}
+
+.notfoundhomewrapper {
+  margin-top: 1rem;
+  justify-content: center;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  margin: auto;
+  display: flex;
+}
+
+.btn-notfound {
+  background-color: $light-card-primary;
+  color: $light-text-primary;
+}
+
+.nextErrorh1 {
+  border-right: 1px solid rgba(0, 0, 0, 0.3);
+  display: inline-block;
+  margin: 0px 20px 0px 0px;
+  padding: 0px 23px 0px 0px;
+  font-size: 24px;
+  font-weight: 500;
+  vertical-align: top;
+  line-height: 49px;
+}
+
+.lineWrapper {
+    display: inline-block;text-align: left;line-height: 49px;height: 49px;vertical-align: middle;
+}
+
+.textMessage{
+    font-size: 14px; font-weight: normal; line-height: 49px; margin: 0px; padding: 0px;
+}
