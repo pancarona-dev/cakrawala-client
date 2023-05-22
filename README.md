@@ -30,10 +30,10 @@ npm install
 Create a `.env.local` file in the root directory and configure the following variables:
 
 ```
-NEXT_PUBLIC_API_BASE_URL=http://localhost:3000/api
+BASE_URL=http://localhost:8000/api
 ```
 
-Replace `http://localhost:3000/api` with the base URL of your backend API.
+Replace `http://localhost:8000/api` with the base URL of your backend API.
 
 4. Start the development server:
 

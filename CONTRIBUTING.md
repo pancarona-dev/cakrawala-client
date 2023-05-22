@@ -20,7 +20,7 @@ To better understand the user interface of Cakrawala - Client, please refer to t
 
 If you encounter a bug while using Cakrawala - Client, or you have an idea for a feature enhancement, follow these steps:
 
-1. Check the [issue tracker](link-to-issue-tracker) to see if the bug or feature request has already been reported. If not, create a new issue to document the problem or feature request.
+1. Check the [issue tracker](https://github.com/pancarona-dev/cakrawala-client/issues) to see if the bug or feature request has already been reported. If not, create a new issue to document the problem or feature request.
 2. Fork the repository and create a new branch based on the latest `develop` branch.
 3. Implement the necessary changes in your branch.
 4. Write unit tests to ensure the code works as expected.
